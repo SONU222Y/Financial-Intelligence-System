@@ -9,4 +9,4 @@ A Streamlit-based financial advisor app that analyzes income, expenses, and EMI 
 - Investment Planning
 
 ## 🔗 Live App
-(Will add after deployment)
+financial-intelligence-system-4utkjsrhlf5ceunmaa2rmh
