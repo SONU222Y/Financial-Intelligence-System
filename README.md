@@ -15,10 +15,10 @@ A Streamlit-based financial advisor application that analyzes income, expenses, 
 ![Dashboard](Dashboard.png)
 
 ### 🏦 Loan & EMI Analysis
-![EMI](Burden calculator.png)
+![EMI](Burdencalculator.png)
 
 ### 📈 SIP Calculator
-![SIP](SIP calculator.png)
+![SIP](SIPcalculator.png)
 
 ---
 
